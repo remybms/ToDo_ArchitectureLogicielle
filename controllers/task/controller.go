@@ -3,8 +3,8 @@ package task
 import (
 	"net/http"
 	"ToDO/config"
-	"ToDO/database/dbmodel"
-	"ToDO/pkg/models"
+	"ToDO/models/dbmodel"
+	"ToDO/controllers/models"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/render"

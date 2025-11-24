@@ -1,8 +1,8 @@
 package config
 
 import (
-	"ToDO/database"
-	"ToDO/database/dbmodel"
+	"ToDO/models"
+	"ToDO/models/dbmodel"
 
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"

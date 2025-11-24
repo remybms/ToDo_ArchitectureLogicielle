@@ -2,7 +2,7 @@ package database
 
 import (
 	"log"
-	"ToDO/database/dbmodel"
+	"ToDO/models/dbmodel"
 
 	"gorm.io/gorm"
 )
